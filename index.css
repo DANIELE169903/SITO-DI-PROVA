@@ -269,6 +269,7 @@ margin-left: 100%;
     margin-top: 25px;
     margin-bottom: 50px;
     width: 100%;
+    min-width: 845px;
 }
 
 .imgpast img{
@@ -299,6 +300,7 @@ margin-left: 100%;
     margin-top: 25px;
     margin-bottom: 50px;
     width: 100%;
+    min-width: 845px;
 }
 
 .imgtorte img{
@@ -340,6 +342,7 @@ margin-left: 100%;
     margin-top: 25px;
     margin-bottom: 50px;
     width: 100%;
+    min-width: 845px;
 }
 
 .imgpanetto img{
@@ -427,6 +430,7 @@ margin-left: 100%;
     margin-top: 25px;
     margin-bottom: 50px;
     width: 100%;
+    min-width: 845px;
 }
 
 .imggelati img{
