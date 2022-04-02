@@ -275,6 +275,7 @@ margin-left: 100%;
 .imgpast img{
     margin-bottom: 30px;
     background: none;
+    width: fit-content;
 }
     
 .imgpast-left {
