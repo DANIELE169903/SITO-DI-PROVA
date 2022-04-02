@@ -121,7 +121,7 @@ margin-left: 100%;
    background-image: url(img/IMG-2582.JPG);
    background-size: 100%;
    background-repeat: no-repeat;
-   min-width: 865px;
+   min-width: 855px;
    min-height: 1000px;
    }
 
@@ -137,7 +137,7 @@ margin-left: 100%;
 .contacts {
     background: rgb(217,176,125);
     background: linear-gradient(180deg, rgba(217,176,125,0.524390243902439) 0%, rgba(205,156,141,0.3390243902439024) 42%);
-    min-width: 865px;
+    min-width: 855px;
     
 }
 
