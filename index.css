@@ -275,7 +275,8 @@ margin-left: 100%;
 .imgpast img{
     margin-bottom: 30px;
     background: none;
-    width: fit-content;
+    flex-wrap: wrap;
+    
 }
     
 .imgpast-left {
@@ -514,6 +515,107 @@ margin-left: 100%;
 }
 
 @media  screen and (max-width: 576px) {
-    .imgpast img {
-        max-width: fit-content;
+    .imgpast-left,
+    .imgpast-right {
+        width: 300px;
+        height: 220px;
+    }
+    .imgpast-left1{
+        width: 300px;
+        height: 500px;
+    }
+        
 }
+
+@media  screen and (max-width: 576px) {
+    .imgtorte-left1,
+    .imgtorte-right {
+        width: 300px;
+        height: 270px;
+    }
+    .imgtorte-left,
+    .imgtorte-right1 {
+        width: 270px;
+        height: 270px;
+     }
+     .imgtorte-left2 {
+         width: 335px ;
+         height: 230px;
+     } 
+    
+        
+}
+
+
+@media  screen and (max-width: 576px) {
+    .imgpanetto-left,
+    .imgpanetto-right {
+        width: 245px;
+        height: 290px;
+        
+    }
+    .imgpanetto-left1{
+        width: 245px;
+        height: 290px;
+    }
+    .imgpanetto-right1{
+        width: 300px;
+        height: 240px;
+    }
+    .imgpanetto-left2 {
+        width: 310px;
+        height: 245px;
+    }
+    .imgpanetto-right2,
+    .imgpanetto-right3 {
+        width: 300px;
+        height: 270px;
+    }
+    .imgpanetto-left3 {
+        width: 345px;
+        height: 270px;
+    }
+    .imgpanetto-left4 {
+        width: 340px;
+        height: 270px;
+    }
+    
+        
+}
+
+@media  screen and (max-width: 576px) {
+    .imggel-left {
+        width: 340px;
+        height: 290px;
+    } 
+    .imggel-right {
+        width: 245px;
+        height: 290px; 
+    }
+    .imggel-left1 {
+        width: 335px;
+        height: 290px;
+    } 
+    .imggel-right1 {
+        width: 300px;
+        height: 240px;
+    }
+    .imggel-left2 {
+        width: 310px;
+        height: 245px;
+    }
+    .imggel-right2 {
+        width: 300px;
+        height: 270px;
+    } 
+    .imggel-left3 {
+        width: 345px;
+        height: 270px;
+    }
+    .imggel-right3 {
+        width: 300px;
+        height: 325px;
+    }
+
+
+
