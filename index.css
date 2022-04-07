@@ -501,7 +501,7 @@ margin-left: 100%;
         width: 100%;
 }
 
-@media  screen and (max-width: 768px) {
+@media  screen and (max-width: 576px) {
     .contacts-about,
     .contacts-form {
         font-size: medium;
