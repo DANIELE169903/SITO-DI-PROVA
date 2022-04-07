@@ -508,6 +508,7 @@ margin-left: 100%;
 }
 .input-field,
 .input-textarea {
-    font-size: small;
+    font-size: large;
     max-width: fit-content;
+    display: flex;
 }
