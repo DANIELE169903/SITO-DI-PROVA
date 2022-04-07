@@ -497,4 +497,5 @@ margin-left: 100%;
     .copyright {
         position: relative;
         left: -150px;
+        font-size: small;
 }
