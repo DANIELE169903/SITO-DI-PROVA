@@ -500,3 +500,14 @@ margin-left: 100%;
         font-size: small;
         width: 100%;
 }
+
+@media  screen and (max-width: 768px) {
+    .contacts-about,
+    .contacts-form {
+        font-size: medium;
+}
+.input-field,
+.input-textarea {
+    font-size: small;
+    max-width: fit-content;
+}
