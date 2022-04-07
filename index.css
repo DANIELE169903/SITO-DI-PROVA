@@ -619,3 +619,12 @@ margin-left: 100%;
 
 
 
+    @media  screen and (max-width: 576px) {
+        .immagine img {
+           width: fit-content;
+           margin-left: -30px;
+        } 
+        .menù ul li {
+            margin-left: -30px;
+           
+        }
