@@ -479,3 +479,15 @@ margin-left: 100%;
     align-self: flex-end;
     margin-right: 40px;
 }
+
+.footer {
+    background-color: rgb(201, 175, 140) ;
+    padding-top: 24px;
+    padding-bottom: 24px;
+}
+
+
+.copyright {
+    margin-left: 200px;
+    margin-bottom: 5px;
+}
